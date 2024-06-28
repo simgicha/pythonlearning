@@ -1,2 +1,2 @@
 # pythonlearning
-Py with git
+Py with git learn
